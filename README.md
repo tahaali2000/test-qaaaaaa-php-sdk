@@ -6,19 +6,19 @@
 Run the following command to install the package and automatically add the dependency to your composer.json file:
 
 ```bash
-composer require "test/test-qaaaaaa-sdk:1.2.3"
+composer require "test/test-qaaaaaa-sdk:1.2.6"
 ```
 
 Or add it to the composer.json file manually as given below:
 
 ```json
 "require": {
-    "test/test-qaaaaaa-sdk": "1.2.3"
+    "test/test-qaaaaaa-sdk": "1.2.6"
 }
 ```
 
 You can also view the package at:
-https://packagist.org/packages/test/test-qaaaaaa-sdk#1.2.3
+https://packagist.org/packages/test/test-qaaaaaa-sdk#1.2.6
 
 ## Test the SDK
 
